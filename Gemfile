@@ -4,6 +4,7 @@ gem 'rails', '3.2.9'
 gem 'mysql2'
 gem 'jquery-rails'
 gem 'devise'
+gem 'thin'
 
 
 # Gems used only for assets and not required
